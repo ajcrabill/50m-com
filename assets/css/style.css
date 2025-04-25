@@ -518,7 +518,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 15px 0;
-  background: #069;
+  background: #c96;
   min-height: 40px;
   margin-top: 82px;
   color: #fff;
@@ -1985,12 +1985,12 @@ section {
 #footer {
   color: #fff;
   font-size: 14px;
-  background: #069;
+  background: #c96;
 }
 
 #footer .footer-top {
   padding: 60px 0 30px 0;
-  background: #069;
+  background: #c96;
 }
 
 #footer .footer-top .footer-contact {
